@@ -1,0 +1,13 @@
+
+################# pass this configing block to client #################
+
+# yafabric Server
+server: "localhost:8000"
+# Fabric user name
+username: "user1"
+# Chaincode Name
+chaincode: "aecc"
+# Enable TLS
+tlsenabled: false
+# CA file for TLS
+certfile: "mist/ca.crt"
