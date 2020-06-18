@@ -1,9 +1,8 @@
-module hyperledger.abchain.org/adapter/yafabric/client
+module hyperledger.abchain.org/adapter/yafabric
 
 go 1.12
 
 require (
-	github.com/abchain/fabric v0.0.0-20191017011114-667e4383b672
 	github.com/golang/protobuf v1.4.1
 	github.com/spf13/viper v1.2.1
 	golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3
